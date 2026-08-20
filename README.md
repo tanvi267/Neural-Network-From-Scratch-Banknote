@@ -179,7 +179,7 @@ The trained neural network is evaluated using the test dataset.
 
 ### 🎯 Test Accuracy
 
-> **Test Accuracy: `XX.XX%`**
+> **Test Accuracy: `99.27%`**
 
 The actual accuracy will be added after completing the model training and evaluation.
 
@@ -187,13 +187,13 @@ The actual accuracy will be added after completing the model training and evalua
 
 The training loss is visualized using a **Loss vs Epochs** graph.
 
-![Training Loss](screenshots/loss_curve.png)
+![Training Loss](Screenshots/Loss_curve.png)
 
 ### 🎯 Model Prediction
 
 The model's prediction results are shown below:
 
-![Model Accuracy](screenshots/accuracy_result.png)
+![Model Accuracy](Screenshots/Accuracy_result.png)
 
 ---
 
